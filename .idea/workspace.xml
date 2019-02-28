@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c385b60b-5c50-4f2b-9ce7-377c3052bf9a" name="Default" comment="" />
+    <list default="true" id="c385b60b-5c50-4f2b-9ce7-377c3052bf9a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/array/CombineArray.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/array/ConstLengthArray.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/array/DynamicArray.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/array/leetcode-15.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/array/leetcode-169.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/array/leetcode-41.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/linkedlist/cyclelinkedlist.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/linkedlist/doublelinkedlist.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/linkedlist/leetcode-141.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/linkedlist/leetcode-23.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/linkedlist/linkedlist.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,10 +65,96 @@
     <SUITE FILE_PATH="coverage/Algorithm$problem2.coverage" NAME="problem2 Coverage Results" MODIFIED="1551245799886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
     <SUITE FILE_PATH="coverage/Algorithm$problem3_v.coverage" NAME="problem3-v Coverage Results" MODIFIED="1547780646245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest3" />
     <SUITE FILE_PATH="coverage/Algorithm$problem1_v3.coverage" NAME="problem1_v3 Coverage Results" MODIFIED="1546042652808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework2" />
+    <SUITE FILE_PATH="coverage/Algorithm$CombineArray.coverage" NAME="CombineArray Coverage Results" MODIFIED="1551342497575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructre/array" />
     <SUITE FILE_PATH="coverage/Algorithm$problem1_v4_.coverage" NAME="problem1_v4_自己尝试 Coverage Results" MODIFIED="1546673203852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework2" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="CombineArray.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datastructre/array/CombineArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="23" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode-41.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datastructre/array/leetcode-41.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode-15.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datastructre/array/leetcode-15.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode-169.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/datastructre/array/leetcode-169.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="32" column="80" lean-forward="true" selection-start-line="32" selection-start-column="80" selection-end-line="32" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linkedlist.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/linkedlist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="110" column="19" lean-forward="true" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+              <folding>
+                <element signature="e#107#183#0" expanded="false" />
+                <element signature="e#207#1905#0" expanded="false" />
+                <element signature="e#1960#2336#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doublelinkedlist.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/doublelinkedlist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DynamicArray.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datastructre/array/DynamicArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConstLengthArray.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datastructre/array/ConstLengthArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,23 +179,17 @@
       <find>knears</find>
       <find>pointlist</find>
       <find>k</find>
+      <find>data</find>
+      <find>pnext</find>
+      <find>__head</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/homework2/problem1.py" />
-        <option value="$PROJECT_DIR$/homework2/problem1_v2.py" />
-        <option value="$PROJECT_DIR$/homework1/problem7_pan.py" />
-        <option value="$PROJECT_DIR$/contest2/test1.py" />
-        <option value="$PROJECT_DIR$/homework2/problem3.py" />
-        <option value="$PROJECT_DIR$/homework2/problem1_v3.py" />
-        <option value="$PROJECT_DIR$/contest2/problem3.py" />
-        <option value="$PROJECT_DIR$/homework2/problem4.py" />
-        <option value="$PROJECT_DIR$/homework2/problem5.py" />
-        <option value="$PROJECT_DIR$/homework2/problem6.py" />
-        <option value="$PROJECT_DIR$/homework2/problem2.py" />
-        <option value="$PROJECT_DIR$/contest2/problem1.py" />
         <option value="$PROJECT_DIR$/contest2/problem4_v3.py" />
         <option value="$PROJECT_DIR$/contest2/problem4.py" />
         <option value="$PROJECT_DIR$/contest2/problem4_v2.py" />
@@ -136,6 +229,18 @@
         <option value="$PROJECT_DIR$/homework3/problem1_xin.py" />
         <option value="$PROJECT_DIR$/homework3/problem1_final.py" />
         <option value="$PROJECT_DIR$/homework3/problem2_test.py" />
+        <option value="$PROJECT_DIR$/datastructre/linkedlist/doublelinkedlist.py" />
+        <option value="$PROJECT_DIR$/datastructre/linkedlist/cyclelinkedlist.py" />
+        <option value="$PROJECT_DIR$/datastructre/linkedlist/leetcode-141.py" />
+        <option value="$PROJECT_DIR$/datastructre/linkedlist/leetcode-23.py" />
+        <option value="$PROJECT_DIR$/datastructre/array/leetcode-15.py" />
+        <option value="$PROJECT_DIR$/datastructre/array/leetcode-169.py" />
+        <option value="$PROJECT_DIR$/datastructre/array/leetcode-41.py" />
+        <option value="$PROJECT_DIR$/datastructre/array/ConstLengthArray.py" />
+        <option value="$PROJECT_DIR$/datastructre/array/CombineArray.py" />
+        <option value="$PROJECT_DIR$/datastructre/array/DynamicArray.py" />
+        <option value="$PROJECT_DIR$/datastructre/linkedlist/reverselinkedlist.py" />
+        <option value="$PROJECT_DIR$/datastructre/linkedlist/linkedlist.py" />
       </list>
     </option>
   </component>
@@ -169,6 +274,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -184,14 +290,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructre" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructre" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -232,21 +349,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.problem2_test">
-    <configuration name="problem1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.CombineArray">
+    <configuration name="CombineArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructre/array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithm" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework3/problem1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructre/array/CombineArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,19 +446,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.problem1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.problem2_by_lpt" />
-      <item index="2" class="java.lang.String" itemvalue="Python.problem2_test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.problem1_xin" />
-      <item index="4" class="java.lang.String" itemvalue="Python.problem1_final" />
+      <item index="0" class="java.lang.String" itemvalue="Python.problem2_by_lpt" />
+      <item index="1" class="java.lang.String" itemvalue="Python.problem2_test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.problem1_xin" />
+      <item index="3" class="java.lang.String" itemvalue="Python.problem1_final" />
+      <item index="4" class="java.lang.String" itemvalue="Python.CombineArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.problem2_test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.problem2_by_lpt" />
-        <item index="2" class="java.lang.String" itemvalue="Python.problem1_final" />
-        <item index="3" class="java.lang.String" itemvalue="Python.problem1_xin" />
-        <item index="4" class="java.lang.String" itemvalue="Python.problem1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.CombineArray" />
+        <item index="1" class="java.lang.String" itemvalue="Python.problem2_test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.problem2_by_lpt" />
+        <item index="3" class="java.lang.String" itemvalue="Python.problem1_final" />
+        <item index="4" class="java.lang.String" itemvalue="Python.problem1_xin" />
       </list>
     </recent_temporary>
   </component>
@@ -372,14 +489,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4222874" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34017596" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34017596" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25201938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25605816" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -474,7 +592,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="164" />
+      <option name="time" value="165" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -483,91 +601,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bytedance/stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bytedance/heap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/contest2/problem2_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="80" column="23" lean-forward="false" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="91" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="99" column="20" lean-forward="false" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework3/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/contest2/problem4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="49" column="33" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="49" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem1_v2_没做完.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1305">
-          <caret line="87" column="11" lean-forward="false" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="311" column="0" lean-forward="false" selection-start-line="311" selection-start-column="0" selection-end-line="311" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myclass/homework2/problem1_v4_自己尝试.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -834,6 +867,105 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/cyclelinkedlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/leetcode-141.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/leetcode-23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="26" lean-forward="false" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/array/ConstLengthArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/array/DynamicArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/array/leetcode-41.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/reverselinkedlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/doublelinkedlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/array/CombineArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/linkedlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="110" column="19" lean-forward="true" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+          <folding>
+            <element signature="e#107#183#0" expanded="false" />
+            <element signature="e#207#1905#0" expanded="false" />
+            <element signature="e#1960#2336#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/array/leetcode-15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/array/leetcode-169.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="32" column="80" lean-forward="true" selection-start-line="32" selection-start-column="80" selection-end-line="32" selection-end-column="80" />
           <folding />
         </state>
       </provider>
