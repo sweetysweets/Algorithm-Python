@@ -138,41 +138,16 @@ class Solution(object):
                     return
         my_set.append(lcs_str[::-1])
 
-    # private
-    # void
-    # traceBack(int
-    # i, int
-    # j, String
-    # lcs_str) {
-    # while (i > 0 & & j > 0) {
-    # if (X.charAt(i-1) == Y.charAt(j-1)) {
-    # lcs_str += X.charAt(i-1);
-    # --i;
-    # --j;
-    # }
-    # else {
-    # if (table[i-1][j] > table[i][j-1])
-    # --i;
-    # else if (table[i-1][j] < table[i][j-1])
-    # --j;
-    # else {// 相等的情况
-    # traceBack(i-1, j, lcs_str);
-    # traceBack(i, j-1, lcs_str);
-    # return;
-    # }
-    # }
-    # }
-    # set.add(reverse(lcs_str));
 
 
 if __name__ == '__main__':
     str1 = sys.stdin.readline().strip('\n')
     str2 = sys.stdin.readline().strip('\n')
-    # str3 = [i for i in str1 if i in str2]
-    # str4 = [i for i in str2 if i in str1]
+    str3 = [i for i in str1 if i in str2]
+    str4 = [i for i in str2 if i in str1]
 
     S = Solution()
-    S.init(str1, str2)
+    S.init(str3, str4)
 
     S.get_all_lcs()
     # result = ""

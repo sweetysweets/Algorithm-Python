@@ -1,3 +1,34 @@
+"""
+子矩阵问题
+Description
+
+给定一个矩形区域，每一个位置上都是1或是0，求该矩阵中每一个位置上都是1的最大子矩阵区域中1的个数
+
+
+Input
+
+输入的每一行是用空格隔开的0或1
+
+
+Output
+
+输出一个值。
+
+
+Sample Input 1
+
+1 0 1 1
+1 1 1 1
+1 1 1 0
+Sample Output 1
+
+6
+
+
+
+"""
+
+
 import sys
 
 
@@ -49,4 +80,7 @@ if __name__ == '__main__':
         print(matrix)
     max_area = S.maximalRectangle(matrix)
     print(max_area)
+
+
+
 
