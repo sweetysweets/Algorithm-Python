@@ -28,9 +28,6 @@ import sys
 
 class Solution:
 
-
-
-
     def partition(self, arr, low, high):  #分区操作，返回基准线下标
         privot = arr[low]
         while low < high:

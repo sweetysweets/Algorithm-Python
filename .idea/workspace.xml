@@ -2,14 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c385b60b-5c50-4f2b-9ce7-377c3052bf9a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/queue/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/queue/queue.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/recursive.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/stack/stack.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/mid/11.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/algorithm_method/01bag.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/algorithm_method/01bagbacktrace.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/algorithm_method/01bagbaoli.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/algorithm_method/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/algorithm_method/backtrace.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/algorithm_method/eightqueen.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/algorithm_method/minPathSum.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/algorithm_method/recursive.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/algorithm_method/somebag.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/graph/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/graph/graph.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/tree/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/tree/heap.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/tree/redblacktree.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datastructre/tree/tree.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/mid/8.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myclass/contest4/problem2-bai.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myclass/contest5/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myclass/contest5/problem1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myclass/contest5/problem2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myclass/contest5/problem3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myclass/contest5/problem4.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pdd/bag.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pdd/hip.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pdd/longestMountain.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pdd/num1-21.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pdd/numsplit.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pdd/problem1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pdd/problem2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pdd/problem3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pdd/problem4.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/xinhuan/10_9_8.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/myclass/homework1/problem2.py" afterPath="$PROJECT_DIR$/myclass/homework1/problem2.py" />
-      <change beforePath="$PROJECT_DIR$/myclass/homework2/problem1_v3_动态规划.py" afterPath="$PROJECT_DIR$/myclass/homework2/problem1_v3_动态规划.py" />
+      <change beforePath="$PROJECT_DIR$/myclass/contest4/problem1-v2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/myclass/contest4/problem1.py" afterPath="$PROJECT_DIR$/myclass/contest4/problem1.py" />
+      <change beforePath="$PROJECT_DIR$/myclass/contest4/problem2.py" afterPath="$PROJECT_DIR$/myclass/contest4/problem2.py" />
+      <change beforePath="$PROJECT_DIR$/myclass/contest4/problem3-v.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/myclass/contest4/problem3.py" afterPath="$PROJECT_DIR$/myclass/contest4/problem3.py" />
+      <change beforePath="$PROJECT_DIR$/myclass/contest4/problem4.py" afterPath="$PROJECT_DIR$/myclass/contest4/problem4.py" />
+      <change beforePath="$PROJECT_DIR$/myclass/contest4/problem5.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/myclass/homework2/problem6.py" afterPath="$PROJECT_DIR$/myclass/homework2/problem6.py" />
+      <change beforePath="$PROJECT_DIR$/myclass/homework2/problem7.py" afterPath="$PROJECT_DIR$/myclass/homework2/problem7.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,59 +54,121 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Algorithm$problem4__1_.coverage" NAME="problem4 (1) Coverage Results" MODIFIED="1546066224755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework2" />
-    <SUITE FILE_PATH="coverage/Algorithm$problem3__1_.coverage" NAME="problem3 (1) Coverage Results" MODIFIED="1546049015817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest2" />
     <SUITE FILE_PATH="coverage/Algorithm$20.coverage" NAME="20 Coverage Results" MODIFIED="1551234238110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/Algorithm$class2.coverage" NAME="class2 Coverage Results" MODIFIED="1545047200824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework1" />
     <SUITE FILE_PATH="coverage/Algorithm$class5.coverage" NAME="class5 Coverage Results" MODIFIED="1545048469577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework1" />
-    <SUITE FILE_PATH="coverage/Algorithm$problem2__1_.coverage" NAME="problem2 (1) Coverage Results" MODIFIED="1547772434901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest3" />
-    <SUITE FILE_PATH="coverage/Algorithm$problem5__1_.coverage" NAME="problem5 (1) Coverage Results" MODIFIED="1551085796719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
-    <SUITE FILE_PATH="coverage/Algorithm$problem3.coverage" NAME="problem3 Coverage Results" MODIFIED="1551168635169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
+    <SUITE FILE_PATH="coverage/Algorithm$problem2__1_.coverage" NAME="problem2 (1) Coverage Results" MODIFIED="1551699120536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myclass/contest4" />
+    <SUITE FILE_PATH="coverage/Algorithm$8.coverage" NAME="8 Coverage Results" MODIFIED="1552027868070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/mid" />
+    <SUITE FILE_PATH="coverage/Algorithm$problem3.coverage" NAME="problem3 Coverage Results" MODIFIED="1552907526299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myclass/contest5" />
     <SUITE FILE_PATH="coverage/Algorithm$problem2_test.coverage" NAME="problem2_test Coverage Results" MODIFIED="1551257081169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
-    <SUITE FILE_PATH="coverage/Algorithm$stack.coverage" NAME="stack Coverage Results" MODIFIED="1551512143526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructre/stack" />
-    <SUITE FILE_PATH="coverage/Algorithm$champion_sort.coverage" NAME="champion_sort Coverage Results" MODIFIED="1546508797574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bytedance" />
-    <SUITE FILE_PATH="coverage/Algorithm$problem1__1_.coverage" NAME="problem1 (1) Coverage Results" MODIFIED="1547771736806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest3" />
     <SUITE FILE_PATH="coverage/Algorithm$homework0.coverage" NAME="homework0 Coverage Results" MODIFIED="1544174583229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$problem7_bai.coverage" NAME="problem7_bai Coverage Results" MODIFIED="1544853960214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework1" />
-    <SUITE FILE_PATH="coverage/Algorithm$test.coverage" NAME="test Coverage Results" MODIFIED="1547780441590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest3" />
-    <SUITE FILE_PATH="coverage/Algorithm$problem7_2_0.coverage" NAME="problem7_2.0 Coverage Results" MODIFIED="1545042440946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework1" />
-    <SUITE FILE_PATH="coverage/Algorithm$problem1.coverage" NAME="problem1 Coverage Results" MODIFIED="1551250020326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
     <SUITE FILE_PATH="coverage/Algorithm$problem1_v3_.coverage" NAME="problem1_v3_动态规划 Coverage Results" MODIFIED="1551409675748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myclass/homework2" />
-    <SUITE FILE_PATH="coverage/Algorithm$heap.coverage" NAME="heap Coverage Results" MODIFIED="1546751175293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bytedance" />
+    <SUITE FILE_PATH="coverage/Algorithm$heap.coverage" NAME="heap Coverage Results" MODIFIED="1552221143947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructre/tree" />
     <SUITE FILE_PATH="coverage/Algorithm$problem5_2.coverage" NAME="problem5_2 Coverage Results" MODIFIED="1551086465154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
     <SUITE FILE_PATH="coverage/Algorithm$problem6.coverage" NAME="problem6 Coverage Results" MODIFIED="1551234104259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
     <SUITE FILE_PATH="coverage/Algorithm$problem4_v2.coverage" NAME="problem4_v2 Coverage Results" MODIFIED="1546081439131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest2" />
-    <SUITE FILE_PATH="coverage/Algorithm$problem1_xin.coverage" NAME="problem1_xin Coverage Results" MODIFIED="1551251011444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
     <SUITE FILE_PATH="coverage/Algorithm$problem1_final.coverage" NAME="problem1_final Coverage Results" MODIFIED="1551254474553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
     <SUITE FILE_PATH="coverage/Algorithm$lengthOfLongestSubstring.coverage" NAME="lengthOfLongestSubstring Coverage Results" MODIFIED="1545182164211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bytedance" />
     <SUITE FILE_PATH="coverage/Algorithm$problem7_pan.coverage" NAME="problem7_pan Coverage Results" MODIFIED="1545717453778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework1" />
     <SUITE FILE_PATH="coverage/Algorithm$class1.coverage" NAME="class1 Coverage Results" MODIFIED="1545043565976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework1" />
     <SUITE FILE_PATH="coverage/Algorithm$problem8.coverage" NAME="problem8 Coverage Results" MODIFIED="1551167049062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
+    <SUITE FILE_PATH="coverage/Algorithm$eightqueen.coverage" NAME="eightqueen Coverage Results" MODIFIED="1552545787632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructre/algorithm_method" />
+    <SUITE FILE_PATH="coverage/Algorithm$problem2_2.coverage" NAME="problem2_2 Coverage Results" MODIFIED="1546082717685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest2" />
+    <SUITE FILE_PATH="coverage/Algorithm$problem2_by_lpt.coverage" NAME="problem2_by_lpt Coverage Results" MODIFIED="1551254678041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
+    <SUITE FILE_PATH="coverage/Algorithm$01bagbacktrace.coverage" NAME="01bagbacktrace Coverage Results" MODIFIED="1553588612396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructre/algorithm_method" />
+    <SUITE FILE_PATH="coverage/Algorithm$graph.coverage" NAME="graph Coverage Results" MODIFIED="1552406867421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructre/graph" />
+    <SUITE FILE_PATH="coverage/Algorithm$problem1_v2_.coverage" NAME="problem1_v2_没做完 Coverage Results" MODIFIED="1551409650788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myclass/homework2" />
+    <SUITE FILE_PATH="coverage/Algorithm$tree.coverage" NAME="tree Coverage Results" MODIFIED="1552188783593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructre/tree" />
+    <SUITE FILE_PATH="coverage/Algorithm$problem7.coverage" NAME="problem7 Coverage Results" MODIFIED="1553158804138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myclass/homework2" />
+    <SUITE FILE_PATH="coverage/Algorithm$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1545979670038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest2" />
+    <SUITE FILE_PATH="coverage/Algorithm$problem2.coverage" NAME="problem2 Coverage Results" MODIFIED="1552905428517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myclass/contest5" />
+    <SUITE FILE_PATH="coverage/Algorithm$CombineArray.coverage" NAME="CombineArray Coverage Results" MODIFIED="1551342497575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructre/array" />
+    <SUITE FILE_PATH="coverage/Algorithm$recursive.coverage" NAME="recursive Coverage Results" MODIFIED="1552793805377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructre/algorithm_method" />
+    <SUITE FILE_PATH="coverage/Algorithm$problem3__1_.coverage" NAME="problem3 (1) Coverage Results" MODIFIED="1546049015817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest2" />
+    <SUITE FILE_PATH="coverage/Algorithm$problem5__1_.coverage" NAME="problem5 (1) Coverage Results" MODIFIED="1551085796719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
+    <SUITE FILE_PATH="coverage/Algorithm$stack.coverage" NAME="stack Coverage Results" MODIFIED="1551512143526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructre/stack" />
+    <SUITE FILE_PATH="coverage/Algorithm$champion_sort.coverage" NAME="champion_sort Coverage Results" MODIFIED="1546508797574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bytedance" />
+    <SUITE FILE_PATH="coverage/Algorithm$problem1__1_.coverage" NAME="problem1 (1) Coverage Results" MODIFIED="1547771736806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest3" />
+    <SUITE FILE_PATH="coverage/Algorithm$test.coverage" NAME="test Coverage Results" MODIFIED="1552207262399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pdd" />
+    <SUITE FILE_PATH="coverage/Algorithm$problem7_2_0.coverage" NAME="problem7_2.0 Coverage Results" MODIFIED="1545042440946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework1" />
+    <SUITE FILE_PATH="coverage/Algorithm$problem1.coverage" NAME="problem1 Coverage Results" MODIFIED="1552905089815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myclass/contest5" />
+    <SUITE FILE_PATH="coverage/Algorithm$01bag.coverage" NAME="01bag Coverage Results" MODIFIED="1553588456224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructre/algorithm_method" />
+    <SUITE FILE_PATH="coverage/Algorithm$num1_21.coverage" NAME="num1-21 Coverage Results" MODIFIED="1552275334355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pdd" />
+    <SUITE FILE_PATH="coverage/Algorithm$problem1_xin.coverage" NAME="problem1_xin Coverage Results" MODIFIED="1551251011444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
     <SUITE FILE_PATH="coverage/Algorithm$number_of_pow.coverage" NAME="number_of_pow Coverage Results" MODIFIED="1546673856602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bytedance" />
     <SUITE FILE_PATH="coverage/Algorithm$class4.coverage" NAME="class4 Coverage Results" MODIFIED="1545047210448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework1" />
     <SUITE FILE_PATH="coverage/Algorithm$problem1_v2.coverage" NAME="problem1_v2 Coverage Results" MODIFIED="1545716478849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework2" />
-    <SUITE FILE_PATH="coverage/Algorithm$problem2_2.coverage" NAME="problem2_2 Coverage Results" MODIFIED="1546082717685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest2" />
+    <SUITE FILE_PATH="coverage/Algorithm$01bagbaoli.coverage" NAME="01bagbaoli Coverage Results" MODIFIED="1553589566941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructre/algorithm_method" />
+    <SUITE FILE_PATH="coverage/Algorithm$minPathSum.coverage" NAME="minPathSum Coverage Results" MODIFIED="1552789938148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructre/algorithm_method" />
     <SUITE FILE_PATH="coverage/Algorithm$problem6_ac.coverage" NAME="problem6_ac Coverage Results" MODIFIED="1551173558918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
-    <SUITE FILE_PATH="coverage/Algorithm$problem4.coverage" NAME="problem4 Coverage Results" MODIFIED="1547773688518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest3" />
-    <SUITE FILE_PATH="coverage/Algorithm$problem2_by_lpt.coverage" NAME="problem2_by_lpt Coverage Results" MODIFIED="1551254678041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
+    <SUITE FILE_PATH="coverage/Algorithm$bag.coverage" NAME="bag Coverage Results" MODIFIED="1552199548332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pdd" />
+    <SUITE FILE_PATH="coverage/Algorithm$problem4.coverage" NAME="problem4 Coverage Results" MODIFIED="1552908016837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myclass/contest5" />
     <SUITE FILE_PATH="coverage/Algorithm$class3.coverage" NAME="class3 Coverage Results" MODIFIED="1545047589499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework1" />
-    <SUITE FILE_PATH="coverage/Algorithm$problem7.coverage" NAME="problem7 Coverage Results" MODIFIED="1551168976250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
-    <SUITE FILE_PATH="coverage/Algorithm$problem1_v2_.coverage" NAME="problem1_v2_没做完 Coverage Results" MODIFIED="1551409650788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myclass/homework2" />
     <SUITE FILE_PATH="coverage/Algorithm$problem4_v3.coverage" NAME="problem4_v3 Coverage Results" MODIFIED="1546080443434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest2" />
-    <SUITE FILE_PATH="coverage/Algorithm$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1545979670038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest2" />
     <SUITE FILE_PATH="coverage/Algorithm$problem5.coverage" NAME="problem5 Coverage Results" MODIFIED="1551171496354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework3" />
-    <SUITE FILE_PATH="coverage/Algorithm$problem2.coverage" NAME="problem2 Coverage Results" MODIFIED="1551409756144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myclass/homework1" />
     <SUITE FILE_PATH="coverage/Algorithm$problem3_v.coverage" NAME="problem3-v Coverage Results" MODIFIED="1547780646245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest3" />
+    <SUITE FILE_PATH="coverage/Algorithm$10_9_8.coverage" NAME="10_9_8 Coverage Results" MODIFIED="1552379879499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xinhuan" />
     <SUITE FILE_PATH="coverage/Algorithm$problem1_v3.coverage" NAME="problem1_v3 Coverage Results" MODIFIED="1546042652808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework2" />
-    <SUITE FILE_PATH="coverage/Algorithm$CombineArray.coverage" NAME="CombineArray Coverage Results" MODIFIED="1551342497575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructre/array" />
     <SUITE FILE_PATH="coverage/Algorithm$problem1_v4_.coverage" NAME="problem1_v4_自己尝试 Coverage Results" MODIFIED="1551409632538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myclass/homework2" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="problem7_pan.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myclass/homework1/problem7_pan.py">
+      <file leaf-file-name="problem5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myclass/homework2/problem5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="217">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problem7.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myclass/homework2/problem7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problem6.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myclass/homework2/problem6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-170">
+              <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problem8.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myclass/homework2/problem8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="73" column="18" lean-forward="false" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01bag.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datastructre/algorithm_method/01bag.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="somebag.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datastructre/algorithm_method/somebag.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -88,88 +184,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problem8_2.0.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myclass/homework1/problem8_2.0.py">
+      <file leaf-file-name="graph.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/datastructre/graph/graph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="71" column="48" lean-forward="true" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problem7_pan.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myclass/homework1/problem7_pan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problem7_bai.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myclass/homework1/problem7_bai.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="problem2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myclass/homework1/problem2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="50" column="31" lean-forward="false" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="11.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/mid/11.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="4" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastructre/stack/stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-              <folding>
-                <element signature="e#142#583#0" expanded="false" />
-                <element signature="e#620#1181#0" expanded="false" />
-                <element signature="e#1307#1962#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="queue.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastructre/queue/queue.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1665">
-              <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recursive.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/datastructre/recursive.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastructre/queue/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="linkedlist.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/linkedlist.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="76" selection-end-column="20" />
-              <folding>
-                <element signature="e#1960#2336#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -202,6 +242,17 @@
       <find>data</find>
       <find>pnext</find>
       <find>__head</find>
+      <find>count_sort_v2</find>
+      <find>count_sort</find>
+      <find>5</find>
+      <find>(1, 4): 5</find>
+      <find>(2, 3): 5</find>
+      <find>(2, 4)</find>
+      <find>8</find>
+      <find>6</find>
+      <find>10</find>
+      <find>42</find>
+      <find>printBoard</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -210,42 +261,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bytedance/number_of_pow.py" />
-        <option value="$PROJECT_DIR$/bytedance/ip.py" />
-        <option value="$PROJECT_DIR$/bytedance/stack.py" />
-        <option value="$PROJECT_DIR$/homework2/problem7.py" />
-        <option value="$PROJECT_DIR$/bytedance/heap.py" />
-        <option value="$PROJECT_DIR$/homework2/problem8.py" />
-        <option value="$PROJECT_DIR$/homework2/problem1_v3_动态规划.py" />
-        <option value="$PROJECT_DIR$/homework3/problem3.py" />
-        <option value="$PROJECT_DIR$/homework3/problem4.py" />
-        <option value="$PROJECT_DIR$/homework3/problem2_by_lpt.py" />
-        <option value="$PROJECT_DIR$/contest3/problem4.py" />
-        <option value="$PROJECT_DIR$/contest3/problem2.py" />
-        <option value="$PROJECT_DIR$/contest3/problem5.py" />
-        <option value="$PROJECT_DIR$/contest3/problem1.py" />
-        <option value="$PROJECT_DIR$/contest3/test.py" />
-        <option value="$PROJECT_DIR$/contest3/problem3-v.py" />
-        <option value="$PROJECT_DIR$/contest3/problem3.py" />
-        <option value="$PROJECT_DIR$/homework3/problem5_2.py" />
-        <option value="$PROJECT_DIR$/homework3/problem8.py" />
-        <option value="$PROJECT_DIR$/homework3/problem7.py" />
-        <option value="$PROJECT_DIR$/homework3/problem5.py" />
-        <option value="$PROJECT_DIR$/homework3/problem6_ac.py" />
-        <option value="$PROJECT_DIR$/homework3/problem6.py" />
-        <option value="$PROJECT_DIR$/leetcode/20.py" />
-        <option value="$PROJECT_DIR$/homework3/problem2.py" />
-        <option value="$PROJECT_DIR$/homework3/problem2_test_2.py" />
-        <option value="$PROJECT_DIR$/homework3/problem1.py" />
-        <option value="$PROJECT_DIR$/homework3/problem1_xin.py" />
-        <option value="$PROJECT_DIR$/homework3/problem1_final.py" />
-        <option value="$PROJECT_DIR$/homework3/problem2_test.py" />
-        <option value="$PROJECT_DIR$/datastructre/linkedlist/doublelinkedlist.py" />
-        <option value="$PROJECT_DIR$/datastructre/linkedlist/cyclelinkedlist.py" />
-        <option value="$PROJECT_DIR$/datastructre/linkedlist/leetcode-141.py" />
-        <option value="$PROJECT_DIR$/datastructre/linkedlist/leetcode-23.py" />
-        <option value="$PROJECT_DIR$/datastructre/array/leetcode-15.py" />
-        <option value="$PROJECT_DIR$/datastructre/array/leetcode-169.py" />
         <option value="$PROJECT_DIR$/datastructre/array/leetcode-41.py" />
         <option value="$PROJECT_DIR$/datastructre/array/ConstLengthArray.py" />
         <option value="$PROJECT_DIR$/datastructre/array/CombineArray.py" />
@@ -261,6 +276,42 @@
         <option value="$PROJECT_DIR$/datastructre/stack/queue.py" />
         <option value="$PROJECT_DIR$/datastructre/queue/queue.py" />
         <option value="$PROJECT_DIR$/datastructre/queue/recursive.py" />
+        <option value="$PROJECT_DIR$/myclass/contest4/problem1.py" />
+        <option value="$PROJECT_DIR$/myclass/contest4/problem3.py" />
+        <option value="$PROJECT_DIR$/myclass/contest4/problem4.py" />
+        <option value="$PROJECT_DIR$/myclass/contest4/problem2-bai.py" />
+        <option value="$PROJECT_DIR$/myclass/contest4/problem2.py" />
+        <option value="$PROJECT_DIR$/leetcode/mid/8.py" />
+        <option value="$PROJECT_DIR$/datastructre/tree.py" />
+        <option value="$PROJECT_DIR$/datastructre/tree/tree.py" />
+        <option value="$PROJECT_DIR$/pdd/bag.py" />
+        <option value="$PROJECT_DIR$/pdd/longestMountain.py" />
+        <option value="$PROJECT_DIR$/pdd/hip.py" />
+        <option value="$PROJECT_DIR$/pdd/numsplit.py" />
+        <option value="$PROJECT_DIR$/pdd/test.py" />
+        <option value="$PROJECT_DIR$/pdd/problem4.py" />
+        <option value="$PROJECT_DIR$/pdd/problem1.py" />
+        <option value="$PROJECT_DIR$/pdd/problem3.py" />
+        <option value="$PROJECT_DIR$/pdd/problem2.py" />
+        <option value="$PROJECT_DIR$/pdd/num1-21.py" />
+        <option value="$PROJECT_DIR$/datastructre/tree/heap.py" />
+        <option value="$PROJECT_DIR$/xinhuan/10_9_8.py" />
+        <option value="$PROJECT_DIR$/datastructre/graph/graph.py" />
+        <option value="$PROJECT_DIR$/datastructre/algorithm_method/eightqueen.py" />
+        <option value="$PROJECT_DIR$/datastructre/algorithm_method/01bag.py" />
+        <option value="$PROJECT_DIR$/datastructre/algorithm_method/minPathSum.py" />
+        <option value="$PROJECT_DIR$/datastructre/algorithm_method/recursive.py" />
+        <option value="$PROJECT_DIR$/datastructre/algorithm_method/backtrace.py" />
+        <option value="$PROJECT_DIR$/myclass/contest5/problem1.py" />
+        <option value="$PROJECT_DIR$/myclass/contest5/problem2.py" />
+        <option value="$PROJECT_DIR$/myclass/contest5/problem3.py" />
+        <option value="$PROJECT_DIR$/myclass/contest5/problem4.py" />
+        <option value="$PROJECT_DIR$/datastructre/tree/redblacktree.py" />
+        <option value="$PROJECT_DIR$/myclass/homework2/problem6.py" />
+        <option value="$PROJECT_DIR$/datastructre/algorithm_method/01bagbacktrace.py" />
+        <option value="$PROJECT_DIR$/datastructre/algorithm_method/01bagbaoli.py" />
+        <option value="$PROJECT_DIR$/datastructre/algorithm_method/somebag.py" />
+        <option value="$PROJECT_DIR$/myclass/homework2/problem7.py" />
       </list>
     </option>
   </component>
@@ -325,12 +376,36 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructre" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm_method" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructre" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="myclass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="myclass" type="462c0819:PsiDirectoryNode" />
+              <item name="homework1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="myclass" type="462c0819:PsiDirectoryNode" />
+              <item name="homework2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="xinhuan" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -346,19 +421,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/datastructre/algorithm_method" />
+      <recent name="$PROJECT_DIR$/myclass" />
+      <recent name="$PROJECT_DIR$/pdd" />
+      <recent name="$PROJECT_DIR$/myclass/contest4" />
+      <recent name="$PROJECT_DIR$/contest4" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/datastructre/tree" />
       <recent name="$PROJECT_DIR$/datastructre" />
       <recent name="$PROJECT_DIR$/datastructre/queue" />
       <recent name="$PROJECT_DIR$/leetcode/easy" />
       <recent name="$PROJECT_DIR$/myclass" />
-      <recent name="$PROJECT_DIR$/contest1" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/contest4" />
-      <recent name="$PROJECT_DIR$/homework3" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/homework2" />
-      <recent name="$PROJECT_DIR$/contest2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -373,8 +448,84 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.stack">
-    <configuration name="problem1_v2_没做完" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.01bagbaoli">
+    <configuration name="01bag" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructre/algorithm_method" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithm" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructre/algorithm_method/01bag.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="01bagbacktrace" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructre/algorithm_method" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithm" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructre/algorithm_method/01bagbacktrace.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="01bagbaoli" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructre/algorithm_method" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithm" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructre/algorithm_method/01bagbaoli.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="problem4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myclass/contest5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithm" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myclass/contest5/problem4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="problem7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -387,102 +538,26 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithm" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myclass/homework2/problem1_v2_没做完.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="problem1_v3_动态规划" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myclass/homework2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Algorithm" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myclass/homework2/problem1_v3_动态规划.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="problem1_v4_自己尝试" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myclass/homework2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Algorithm" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myclass/homework2/problem1_v4_自己尝试.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="problem2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myclass/homework1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Algorithm" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myclass/homework1/problem2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructre/stack" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Algorithm" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructre/stack/stack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myclass/homework2/problem7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.problem1_v3_动态规划" />
-      <item index="1" class="java.lang.String" itemvalue="Python.problem1_v4_自己尝试" />
-      <item index="2" class="java.lang.String" itemvalue="Python.problem1_v2_没做完" />
-      <item index="3" class="java.lang.String" itemvalue="Python.problem2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.stack" />
+      <item index="0" class="java.lang.String" itemvalue="Python.problem4" />
+      <item index="1" class="java.lang.String" itemvalue="Python.problem7" />
+      <item index="2" class="java.lang.String" itemvalue="Python.01bag" />
+      <item index="3" class="java.lang.String" itemvalue="Python.01bagbacktrace" />
+      <item index="4" class="java.lang.String" itemvalue="Python.01bagbaoli" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.stack" />
-        <item index="1" class="java.lang.String" itemvalue="Python.problem2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.problem1_v3_动态规划" />
-        <item index="3" class="java.lang.String" itemvalue="Python.problem1_v2_没做完" />
-        <item index="4" class="java.lang.String" itemvalue="Python.problem1_v4_自己尝试" />
+        <item index="0" class="java.lang.String" itemvalue="Python.01bagbaoli" />
+        <item index="1" class="java.lang.String" itemvalue="Python.01bagbacktrace" />
+        <item index="2" class="java.lang.String" itemvalue="Python.01bag" />
+        <item index="3" class="java.lang.String" itemvalue="Python.problem7" />
+        <item index="4" class="java.lang.String" itemvalue="Python.problem4" />
       </list>
     </recent_temporary>
   </component>
@@ -513,20 +588,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4222874" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34017596" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30938417" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2673667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3812601" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33577713" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13782991" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -607,6 +683,26 @@
           <line>43</line>
           <option name="timeStamp" value="154" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/mid/8.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/datastructre/algorithm_method/minPathSum.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/datastructre/algorithm_method/minPathSum.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/datastructre/algorithm_method/minPathSum.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -615,7 +711,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="169" />
+      <option name="time" value="197" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -624,254 +720,193 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem7.py">
+    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="60" column="24" lean-forward="false" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem6_ac.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2385">
-          <caret line="159" column="21" lean-forward="false" selection-start-line="159" selection-start-column="21" selection-end-line="159" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="93" column="29" lean-forward="false" selection-start-line="76" selection-start-column="4" selection-end-line="93" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88">
-          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/contest4/problem1-v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/contest4/problem1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/easy/20.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/cyclelinkedlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/leetcode-141.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/leetcode-23.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="26" lean-forward="false" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/array/ConstLengthArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/array/DynamicArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/array/leetcode-41.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/reverselinkedlist.py" />
-    <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/doublelinkedlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/array/CombineArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/array/leetcode-15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="27" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/array/leetcode-169.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="80" lean-forward="false" selection-start-line="32" selection-start-column="80" selection-end-line="32" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem1_v4_自己尝试.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1264">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem1_v2_没做完.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1022">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem1_v3_动态规划.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="149" column="22" lean-forward="true" selection-start-line="149" selection-start-column="22" selection-end-line="149" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="15" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="57" selection-end-column="15" />
+        <state relative-caret-position="990">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myclass/homework3/problem1_final.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="53" lean-forward="true" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem1.py">
+    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4620">
+          <caret line="309" column="0" lean-forward="false" selection-start-line="309" selection-start-column="0" selection-end-line="309" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd/numsplit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd/problem4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205">
+          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd/problem3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="120" column="30" lean-forward="false" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd/problem1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd/problem2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd/num1-21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="16" lean-forward="false" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd/longestMountain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd/bag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="43" column="10" lean-forward="true" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd/hip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="129" column="1" lean-forward="false" selection-start-line="129" selection-start-column="1" selection-end-line="129" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/tree/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3705">
+          <caret line="247" column="20" lean-forward="false" selection-start-line="247" selection-start-column="20" selection-end-line="247" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/tree/heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="28" lean-forward="false" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myclass/homework3/problem1_xin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="38" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem3.py">
+    <entry file="file://$PROJECT_DIR$/datastructre/algorithm_method/eightqueen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        <state relative-caret-position="285">
+          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem2_test_2.py">
+    <entry file="file://$PROJECT_DIR$/datastructre/algorithm_method/minPathSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
-          <caret line="95" column="64" lean-forward="false" selection-start-line="95" selection-start-column="60" selection-end-line="95" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem2_by_lpt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="337" column="10" lean-forward="true" selection-start-line="337" selection-start-column="10" selection-end-line="337" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem2_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="248" column="42" lean-forward="true" selection-start-line="248" selection-start-column="42" selection-end-line="248" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework1/problem1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="334">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework1/problem3.py">
+    <entry file="file://$PROJECT_DIR$/datastructre/algorithm_method/recursive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/algorithm_method/backtrace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myclass/contest5/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework1/problem4.py">
+    <entry file="file://$PROJECT_DIR$/myclass/contest5/problem1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework1/problem5.py">
+    <entry file="file://$PROJECT_DIR$/myclass/contest5/problem2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="247">
+          <caret line="90" column="83" lean-forward="false" selection-start-line="90" selection-start-column="83" selection-end-line="90" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myclass/contest5/problem3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="38" column="76" lean-forward="false" selection-start-line="38" selection-start-column="76" selection-end-line="38" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myclass/contest5/problem4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/tree/redblacktree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myclass/homework1/problem7_1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -882,37 +917,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework1/problem7_1.0.py">
+    <entry file="file://$PROJECT_DIR$/myclass/homework1/problem5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="41" column="15" lean-forward="false" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="15" lean-forward="false" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework1/problem7_2.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework1/problem7_bai.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework1/problem7_pan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework1/problem8_2.0.py">
+    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -920,49 +946,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myclass/homework1/problem2.py">
+    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="31" lean-forward="false" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+        <state relative-caret-position="600">
+          <caret line="40" column="27" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/mid/11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="4" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/linkedlist/linkedlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="76" selection-end-column="20" />
-          <folding>
-            <element signature="e#1960#2336#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/stack/WebViewBackAndFront.py" />
-    <entry file="file://$PROJECT_DIR$/datastructre/stack/stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-          <folding>
-            <element signature="e#142#583#0" expanded="false" />
-            <element signature="e#620#1181#0" expanded="false" />
-            <element signature="e#1307#1962#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/queue/__init__.py">
+    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem6_ac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myclass/homework3/problem3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xinhuan/10_9_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/algorithm_method/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-130918069/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="481" column="44" lean-forward="true" selection-start-line="481" selection-start-column="44" selection-end-line="481" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/algorithm_method/01bagbacktrace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/algorithm_method/01bagbaoli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -975,18 +1026,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/queue/queue.py">
+    <entry file="file://$PROJECT_DIR$/datastructre/algorithm_method/01bag.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1665">
-          <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+        <state relative-caret-position="109">
+          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructre/recursive.py">
+    <entry file="file://$PROJECT_DIR$/datastructre/algorithm_method/somebag.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+        <state relative-caret-position="315">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myclass/homework1/problem7_pan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myclass/homework1/problem7_bai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="73" column="18" lean-forward="false" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myclass/homework2/problem5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructre/graph/graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="71" column="48" lean-forward="true" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="48" />
           <folding />
         </state>
       </provider>
