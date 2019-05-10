@@ -75,6 +75,7 @@ if __name__ == '__main__':
         arr = [int(x) for x in arr_str]
         # arr = [13,24,3,56,34,3,78,12,29,49,84,51,9,100]
         b = S.count_sort(arr)
+        print(b)
         S.print_arr(b)
         print()
 

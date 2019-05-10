@@ -73,6 +73,14 @@ class Solution:
                 low += 2 * i
             i *= 2
 
+
+    def merge_recursive(self,arr,start,end):
+        if start<end:
+            mid = (end+start)//2
+            self.merge_recursive(arr,start,mid)
+            self.merge_recursive(arr, mid+1, end)
+            self.merge(arr,start,mid,end)
+
     def print_arr(self, arr):
         for i in range(len(arr) - 1):
             print(arr[i], end=' ')

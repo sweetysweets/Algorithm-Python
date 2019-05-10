@@ -120,3 +120,33 @@ array = [2,3,5,7,1,4,6,15,5,2,7,9,10,15,9,17,12]
 print(quickSort(array))
 # 输出为[1, 2, 2, 3, 4, 5, 5, 6, 7, 7, 9, 9, 10, 12, 15, 15, 17]
 """
+
+
+
+
+"""
+
+
+public static int selectK(int a[],int start,int end,int k)
+	{
+		int index = 0;
+		if(start<end)
+		{
+			index = Partition(a,start,end);
+			if(index == k)//正好找到第k大的数
+			{
+				index = k;
+			}else if(index < k)//还要从index的右边找k-index个数
+			{
+				index = selectK(a,index+1,end,k-index);
+			}else if(index > k)//k个数都在Index的左边
+			{
+				index = selectK(a,start,index-1,k);
+			}
+		}
+		return index;
+ 
+	}
+
+
+"""
